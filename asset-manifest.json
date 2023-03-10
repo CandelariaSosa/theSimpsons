@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/theSimpsons/static/css/main.153b3f02.css",
+    "main.js": "/theSimpsons/static/js/main.9cf58fe2.js",
+    "static/media/homerSapiens.jpg": "/theSimpsons/static/media/homerSapiens.424560c4e6ad8e7d754f.jpg",
+    "index.html": "/theSimpsons/index.html",
+    "main.153b3f02.css.map": "/theSimpsons/static/css/main.153b3f02.css.map",
+    "main.9cf58fe2.js.map": "/theSimpsons/static/js/main.9cf58fe2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.153b3f02.css",
+    "static/js/main.9cf58fe2.js"
+  ]
+}
